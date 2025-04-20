@@ -2,7 +2,7 @@
 
 > All docstrings were written by Grok-3 for your (and my) convenience.
 
-This repo hosts a training framework to experiment with and train small language models using PyTorch. This repository includes training scripts, data preprocessing utilities, and model definitions.
+This repo hosts a training framework (supports FSDP) to experiment with and train small language models using PyTorch. This repository includes training scripts, data preprocessing utilities, and model definitions.
 
 Currently, this repo is utilizes the [TinyStories dataset](https://arxiv.org/abs/2305.07759).
 
